@@ -1,0 +1,15 @@
+.login {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    // background-color: rgb(245, 245, 245);
+}
+.btn {
+    &:hover {
+        background-color: #4995ff !important;
+        color: #fff !important;
+        border: none !important;
+        outline: none !important;
+    }
+}

@@ -1,0 +1,46 @@
+.ant-form-item {
+    // width: 220px !important;
+    border-radius: 1px !important;
+}
+.btn-delete {
+    &:hover {
+        color: #fff !important;
+        background-color: #ff4d50d0;
+    }
+}
+.btn-edit {
+    &:hover {
+        color: #fff !important;
+        background-color: #188fffcc;
+    }
+}
+.btn-add{
+    &:hover {
+        color: #fff !important;
+        background-color: #188fffcc;
+    }
+}
+.btn-excel{
+    &:hover{
+        color: #fff !important;
+        background-color: #0d8447b4;
+    }
+}
+.ant-btn-primary{
+    background-color: #188fffcc ;
+}
+.ant-popconfirm-description{
+    margin: 0;
+    padding: 1;
+    margin-inline-start: 0 !important;
+}
+.ant-popconfirm-message{
+    display: flex;
+    align-items: center;
+}
+.ant-popconfirm-message-title{
+    margin-top: 3px ;
+}
+ant-table-cell{
+    text-align: center !important;
+}
